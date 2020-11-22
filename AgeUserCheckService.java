@@ -9,6 +9,7 @@ public class AgeUserCheckService implements IUserCheckService {
 		}
 	}
 
+
 	// Method olacak
 
 }
